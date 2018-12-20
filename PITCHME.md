@@ -3,5 +3,3 @@ La version javascript de ce webinaire a moins de chance que la version Python.
 Mon train est annulé et je suis obligé de remettre le webinaire de tout à l'heure au 
 **vendredi 4 janvier de 18 à 20h**. Mille excuses pour ce contre-temps auprès de tous ceux 
 qui avaient réservé la soirée.
-
-![](https://static.seattletimes.com/wp-content/uploads/2018/09/web-Careers-Career-Advice-Break-the-sorry-cycle-art.jpg | width=250)
